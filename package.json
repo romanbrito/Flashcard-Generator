@@ -1,0 +1,27 @@
+{
+  "name": "flashcard",
+  "version": "1.0.0",
+  "description": "flashcard generator",
+  "main": "FlashCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romanbrito/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "node",
+    "flashcard",
+    "generator"
+  ],
+  "author": "roman brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romanbrito/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/romanbrito/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
